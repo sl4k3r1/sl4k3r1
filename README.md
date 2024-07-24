@@ -1,29 +1,22 @@
 # Hi there, I'm Bernardo Netto 👋
 
-<p align="center">
-  <img src="https://github.com/sl4k3r1/sl4k3r1/blob/main/Banner%20para%20Linkedin%20capa%20de%20perfil%20%20para%20programador%20%20%5BTamanho%20original%5D.png" alt="Profile Banner">
-</p>
+![Profile Banner](https://github.com/sl4k3r1/sl4k3r1/blob/main/Banner%20para%20Linkedin%20capa%20de%20perfil%20%20para%20programador%20%20%5BTamanho%20original%5D.png)
 
 I'm a starting career developer from Brazil 🇧🇷. Passionate about technology and always eager to learn new things. Here you'll find information about my projects, skills, and ways to get in touch with me.
 
 ## 🌟 About Me
-<p align="center">
-- 🔭 Currently working on internal support to resolve IT issues, equipment rentals, and systems supervision.<br>
-- 🌱 Learning and growing my skills in React, Java (Android), backend, and frontend development.<br>
-- 🎓 Planning and implementing technology projects to improve operational efficiency.<br>
+- 🔭 Currently working on internal support to resolve IT issues, equipment rentals, and systems supervision.
+- 🌱 Learning and growing my skills in React, Java (Android), backend, and frontend development.
+- 🎓 Planning and implementing technology projects to improve operational efficiency.
 - 💻 Developing a Chromebook and apps reservation system.
-</p>
 
 ## 🚀 Skills
-<p align="center">
-- **Frontend:** React, React Native<br>
-- **Backend:** Java (Android), Node.js<br>
+- **Frontend:** React, React Native
+- **Backend:** Java (Android), Node.js
 - **Other:** IT support, Windows Server management, log analysis, system improvements
-</p>
 
 ## 📈 Projects
 
-<p align="center">
 <table>
   <tr>
     <td align="center" width="50%">
@@ -51,14 +44,11 @@ I'm a starting career developer from Brazil 🇧🇷. Passionate about technolog
     </td>
   </tr>
 </table>
-</p>
 
 ## 📫 Get in Touch
-<p align="center">
-- **Email:** [bernardomattosnetto@gmail.com](mailto:bernardomattosnetto@gmail.com)<br>
-- **LinkedIn:** [bernardo-netto](https://www.linkedin.com/in/bernardo-netto/)<br>
+- **Email:** [bernardomattosnetto@gmail.com](mailto:bernardomattosnetto@gmail.com)
+- **LinkedIn:** [bernardo-netto](https://www.linkedin.com/in/bernardo-netto/)
 - **GitHub:** [sl4k3r1](https://github.com/sl4k3r1)
-</p>
 
 ## 📊 GitHub Stats
 <p align="center">
