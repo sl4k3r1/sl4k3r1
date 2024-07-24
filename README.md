@@ -1,6 +1,6 @@
 # Hi there, I'm Bernardo Netto 👋
 
-![Profile Banner](https://www.canva.com/design/DAGLs-ZhuMc/rXzltKtaxgpsqtoU7cWwpw/view)
+![Profile Banner](https://github.com/sl4k3r1/sl4k3r1/blob/main/Banner%20para%20Linkedin%20capa%20de%20perfil%20%20para%20programador%20%20%5BTamanho%20original%5D.png)
 
 I'm a starting career developer from Brazil 🇧🇷. Passionate about technology and always eager to learn new things. Here you'll find information about my projects, skills, and ways to get in touch with me.
 
@@ -20,7 +20,7 @@ I'm a starting career developer from Brazil 🇧🇷. Passionate about technolog
 - **[To Do List](https://github.com/sl4k3r1/To_Do_List)**: A simple to-do list application to keep track of tasks and manage your time effectively.
 ![Booking Flights](https://github.com/sl4k3r1/2022-1-DEV-WEB-14/blob/master/flight/static/img/icon.png)
 - **[Booking Flights](https://github.com/sl4k3r1/2022-1-DEV-WEB-14)**: A project for booking flights, providing users with the ability to search for and reserve flights.
-![Film Rating App](https://www.canva.com/design/DAGL4zbme4w/M2kk4P1anIDwIiTtITh9mA/view)
+![Film Rating App](https://github.com/sl4k3r1/sl4k3r1/blob/main/Design%20sem%20nome.png)
 - **[Film Rating App](https://github.com/sl4k3r1/Film_Rating_App)**: An app for rating films, allowing users to browse and review movies.
 
 ## 📫 Get in Touch
