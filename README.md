@@ -1,35 +1,40 @@
-<h2 align="left">Hey there! 👋 I'm Bernardo Netto, just kicking off my career as a developer from Brazil. 
-  🇧🇷🚀</h2>
+# Hi there, I'm Bernardo Netto 👋
 
-###
+![Profile Banner](https://www.canva.com/design/DAGLs-ZhuMc/rXzltKtaxgpsqtoU7cWwpw/view)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-</div>
+I'm a starting career developer from Brazil 🇧🇷. Passionate about technology and always eager to learn new things. Here you'll find information about my projects, skills, and ways to get in touch with me.
 
-###
+## 🌟 About Me
+- 🔭 Currently working on internal support to resolve IT issues, equipment rentals, and systems supervision.
+- 🌱 Learning and growing my skills in React, Java (Android), backend, and frontend development.
+- 🎓 Planning and implementing technology projects to improve operational efficiency.
+- 💻 Developing a Chromebook and apps reservation system.
 
-<div align="center">
-  <a href="https://www.youtube.com/@SL4K3R/featured" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/bernardo-netto/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+## 🚀 Skills
+- **Frontend:** React, React Native
+- **Backend:** Java (Android), Node.js
+- **Other:** IT support, Windows Server management, log analysis, system improvements
 
-###
+## 📈 Projects
+![To Do List](https://github.com/sl4k3r1/To_Do_List/raw/main/screenshot.png)
+- **[To Do List](https://github.com/sl4k3r1/To_Do_List)**: A simple to-do list application to keep track of tasks and manage your time effectively.
+![Booking Flights](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fflightbookingtravel%2F&psig=AOvVaw0qYBaUuCMsizgWBZANW55V&ust=1721934906597000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCLkM6xwIcDFQAAAAAdAAAAABAE)
+- **[Booking Flights](https://github.com/sl4k3r1/2022-1-DEV-WEB-14)**: A project for booking flights, providing users with the ability to search for and reserve flights.
+![Film Rating App](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fthemoviedb%2F%3Flocale%3Dpt_BR&psig=AOvVaw3o2evIstvQzECemZ85rNsP&ust=1721935248329000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOC_1O2ywIcDFQAAAAAdAAAAABAT)
+- **[Film Rating App](https://github.com/sl4k3r1/Film_Rating_App)**: An app for rating films, allowing users to browse and review movies.
+
+## 📫 Get in Touch
+- **Email:** [bernardomattosnetto@gmail.com](mailto:bernardomattosnetto@gmail.com)
+- **LinkedIn:** [bernardo-netto](https://www.linkedin.com/in/bernardo-netto/)
+- **GitHub:** [sl4k3r1](https://github.com/sl4k3r1)
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sl4k3r1&show_icons=true&theme=radical)
+
+## 📚 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+Feel free to explore my repositories and reach out if you have any questions or opportunities to collaborate. Let's create something amazing together! 🚀
