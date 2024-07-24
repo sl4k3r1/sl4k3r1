@@ -17,33 +17,41 @@ I'm a starting career developer from Brazil 🇧🇷. Passionate about technolog
 
 ## 📈 Projects
 
+<p align="center">
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/sl4k3r1/To_Do_List/raw/main/screenshot.png" alt="To Do List" width="100">
-      <br>
-      <a href="https://to-do-list-lquc94buy-bernardo-nettos-projects.vercel.app"><strong>To Do List</strong></a>
-      <br>
-      <p>A simple to-do list application to keep track of tasks and manage your time effectively.</p>
+      <a href="https://to-do-list-lquc94buy-bernardo-nettos-projects.vercel.app">
+        <img src="https://github.com/sl4k3r1/To_Do_List/raw/main/screenshot.png" alt="To Do List" width="100">
+        <br>
+        <strong>To Do List</strong>
+        <br>
+        <p>A simple to-do list application to keep track of tasks and manage your time effectively.</p>
+      </a>
     </td>
     <td align="center" width="50%">
-      <img src="https://github.com/sl4k3r1/2022-1-DEV-WEB-14/blob/master/flight/static/img/icon.png" alt="Booking Flights" width="100">
-      <br>
-      <a href="https://github.com/sl4k3r1/2022-1-DEV-WEB-14"><strong>Booking Flights</strong></a>
-      <br>
-      <p>A project for booking flights, providing users with the ability to search for and reserve flights.</p>
+      <a href="https://github.com/sl4k3r1/2022-1-DEV-WEB-14">
+        <img src="https://github.com/sl4k3r1/2022-1-DEV-WEB-14/blob/master/flight/static/img/icon.png" alt="Booking Flights" width="100">
+        <br>
+        <strong>Booking Flights</strong>
+        <br>
+        <p>A project for booking flights, providing users with the ability to search for and reserve flights.</p>
+      </a>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github.com/sl4k3r1/sl4k3r1/blob/main/Design%20sem%20nome.png" alt="Film Rating App" width="100">
-      <br>
-      <a href="https://github.com/sl4k3r1/Film_Rating_App"><strong>Film Rating App</strong></a>
-      <br>
-      <p>An app for rating films, allowing users to browse and review movies.</p>
+      <a href="https://github.com/sl4k3r1/Film_Rating_App">
+        <img src="https://github.com/sl4k3r1/sl4k3r1/blob/main/Design%20sem%20nome.png" alt="Film Rating App" width="100">
+        <br>
+        <strong>Film Rating App</strong>
+        <br>
+        <p>An app for rating films, allowing users to browse and review movies.</p>
+      </a>
     </td>
   </tr>
 </table>
+</p>
 
 ## 📫 Get in Touch
 - **Email:** [bernardomattosnetto@gmail.com](mailto:bernardomattosnetto@gmail.com)
