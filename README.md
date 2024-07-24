@@ -20,34 +20,31 @@ I'm a starting career developer from Brazil 🇧🇷. Passionate about technolog
 <p align="center">
 <table>
   <tr>
-    <td align="center" width="50%" style="border: 1px solid #ddd; padding: 10px; border-radius: 10px; text-align: center;">
+    <td align="center" width="50%">
       <a href="https://to-do-list-lquc94buy-bernardo-nettos-projects.vercel.app" style="display: block; text-decoration: none; color: inherit;">
         <img src="https://github.com/sl4k3r1/To_Do_List/raw/main/screenshot.png" alt="To Do List" width="100">
         <br>
         <strong>To Do List</strong>
-        <br>
-        <p>A simple to-do list application to keep track of tasks and manage your time effectively.</p>
       </a>
+      <p>A simple to-do list application to keep track of tasks and manage your time effectively.</p>
     </td>
-    <td align="center" width="50%" style="border: 1px solid #ddd; padding: 10px; border-radius: 10px; text-align: center;">
+    <td align="center" width="50%">
       <a href="https://github.com/sl4k3r1/2022-1-DEV-WEB-14" style="display: block; text-decoration: none; color: inherit;">
         <img src="https://github.com/sl4k3r1/2022-1-DEV-WEB-14/blob/master/flight/static/img/icon.png" alt="Booking Flights" width="100">
         <br>
         <strong>Booking Flights</strong>
-        <br>
-        <p>A project for booking flights, providing users with the ability to search for and reserve flights.</p>
       </a>
+      <p>A project for booking flights, providing users with the ability to search for and reserve flights.</p>
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2" style="border: 1px solid #ddd; padding: 10px; border-radius: 10px; text-align: center;">
+    <td align="center" colspan="2">
       <a href="https://github.com/sl4k3r1/Film_Rating_App" style="display: block; text-decoration: none; color: inherit;">
         <img src="https://github.com/sl4k3r1/sl4k3r1/blob/main/Design%20sem%20nome.png" alt="Film Rating App" width="100">
         <br>
         <strong>Film Rating App</strong>
-        <br>
-        <p>An app for rating films, allowing users to browse and review movies.</p>
       </a>
+      <p>An app for rating films, allowing users to browse and review movies.</p>
     </td>
   </tr>
 </table>
