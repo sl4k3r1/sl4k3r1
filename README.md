@@ -20,7 +20,7 @@ I'm a starting career developer from Brazil 🇧🇷. Passionate about technolog
 - **[To Do List](https://github.com/sl4k3r1/To_Do_List)**: A simple to-do list application to keep track of tasks and manage your time effectively.
 ![Booking Flights](https://github.com/sl4k3r1/2022-1-DEV-WEB-14/blob/master/flight/static/img/icon.png)
 - **[Booking Flights](https://github.com/sl4k3r1/2022-1-DEV-WEB-14)**: A project for booking flights, providing users with the ability to search for and reserve flights.
-![Film Rating App]([https://chatgpt.com/api/content/file-qRmKsfSqi1fTub94tINWJzhT](https://www.canva.com/design/DAGL4zbme4w/M2kk4P1anIDwIiTtITh9mA/view))
+![Film Rating App](https://www.canva.com/design/DAGL4zbme4w/M2kk4P1anIDwIiTtITh9mA/view)
 - **[Film Rating App](https://github.com/sl4k3r1/Film_Rating_App)**: An app for rating films, allowing users to browse and review movies.
 
 ## 📫 Get in Touch
