@@ -18,9 +18,9 @@ I'm a starting career developer from Brazil 🇧🇷. Passionate about technolog
 ## 📈 Projects
 ![To Do List](https://github.com/sl4k3r1/To_Do_List/raw/main/screenshot.png)
 - **[To Do List](https://github.com/sl4k3r1/To_Do_List)**: A simple to-do list application to keep track of tasks and manage your time effectively.
-![Booking Flights](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fflightbookingtravel%2F&psig=AOvVaw0qYBaUuCMsizgWBZANW55V&ust=1721934906597000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCLkM6xwIcDFQAAAAAdAAAAABAE)
+![Booking Flights](https://github.com/sl4k3r1/2022-1-DEV-WEB-14/blob/master/flight/static/img/icon.png)
 - **[Booking Flights](https://github.com/sl4k3r1/2022-1-DEV-WEB-14)**: A project for booking flights, providing users with the ability to search for and reserve flights.
-![Film Rating App](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fthemoviedb%2F%3Flocale%3Dpt_BR&psig=AOvVaw3o2evIstvQzECemZ85rNsP&ust=1721935248329000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOC_1O2ywIcDFQAAAAAdAAAAABAT)
+![Film Rating App](https://chatgpt.com/api/content/file-qRmKsfSqi1fTub94tINWJzhT)
 - **[Film Rating App](https://github.com/sl4k3r1/Film_Rating_App)**: An app for rating films, allowing users to browse and review movies.
 
 ## 📫 Get in Touch
