@@ -21,7 +21,7 @@ I'm a starting career developer from Brazil 🇧🇷. Passionate about technolog
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://to-do-list-lquc94buy-bernardo-nettos-projects.vercel.app" style="display: block; text-decoration: none; color: inherit;">
+      <a href="https://to-do-list-bernardo-react.vercel.app/" style="display: block; text-decoration: none; color: inherit;">
         <img src="https://github.com/sl4k3r1/To_Do_List/raw/main/screenshot.png" alt="To Do List" width="100">
         <br>
         <strong>To Do List</strong>
