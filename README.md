@@ -29,12 +29,12 @@ I'm a starting career developer from Brazil 🇧🇷. Passionate about technolog
       <p>A simple to-do list application to keep track of tasks and manage your time effectively.</p>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/sl4k3r1/2022-1-DEV-WEB-14" style="display: block; text-decoration: none; color: inherit;">
-        <img src="https://github.com/sl4k3r1/2022-1-DEV-WEB-14/blob/master/flight/static/img/icon.png" alt="Booking Flights" width="100">
+      <a href="https://calculator-react-bernardo.vercel.app/" style="display: block; text-decoration: none; color: inherit;">
+        <img src="https://github.com/sl4k3r1/sl4k3r1/blob/main/Captura%20de%20tela%202024-07-25%20110423.png" alt="Booking Flights" width="100">
         <br>
-        <strong>Booking Flights</strong>
+        <strong>Calculator</strong>
       </a>
-      <p>A project for booking flights, providing users with the ability to search for and reserve flights.</p>
+      <p>A basic calculator using react.</p>
     </td>
   </tr>
   <tr>
